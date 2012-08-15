@@ -1,0 +1,11 @@
+Especificação do programa
+=========================
+Escreva um programa que receba uma imagem da entrada padrão no formato Portable Pixel
+Map  (PPM do NetPBM), converta a imagem para tons de cinza pela média das cores
+ R+G+B)/3, e a emita na saída padrão no mesmo formato.
+
+ Textos de Apoio
+ ===============
+ http://www4.fct.unesp.br/docentes/carto/galo/www22/pdf/formato_PBM.PDF
+ http://www.di.ubi.pt/~paraujo/ArquitecturaComputadores/ArquitecturaComputadores%20II/Textos/FormatosImagem.pdf
+ http://paulbourke.net/dataformats/ppm/ ***
